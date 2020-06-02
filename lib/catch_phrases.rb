@@ -15,4 +15,5 @@ end
 def method_name
   puts mario
   puts toadstool
+  puts link
 end
